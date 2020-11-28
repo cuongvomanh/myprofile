@@ -1,2 +1,4 @@
 # myprofile
 # mypublic gpg key : F2EB86D091B03529DA6074EB92216101688F76D3 92216101688F76D3
+
+gpg --full-gen-key
